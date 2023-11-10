@@ -1,0 +1,60 @@
+#home1 {color:red;
+    text-decoration: none;
+}
+#home2 {color: black;
+    text-decoration: none;
+}
+#home3 {color: black;
+    text-decoration: none;
+}
+#home4 {color: black;
+    text-decoration: none;
+}
+#home5 {color: black;
+    text-decoration: none;
+}
+#desc {
+    background-image:url("https://i.ibb.co/nrWC4dt/wallpaper.jpg");
+    background-size: cover;
+}
+#desc1 {
+    color: gainsboro;
+    text-align: center;
+    display: flex;
+    justify-content: space-evenly;
+    font-size: 40px;
+}
+#slogan {
+    color: red;
+    text-align: center;
+    display: flex;
+    justify-content: space-evenly;
+    font-size: 50px;
+}
+#prin {
+    text-align: center;
+}
+#titre {
+    font-size: 40px;
+}
+#video img{
+    width: 480px;
+    height: 260px;
+    transition: transform .1s;
+}
+#video img:hover{
+    -ms-transform: scale(1.2);
+    -webkit-transform: scale(1.2);
+    transform: scale(1.2);
+}
+#pack {
+    float: left;
+    font-size: 10px;
+}
+#doc {
+    float:right;
+    font-size: 12px;
+}
+#pinpon {
+    font-size: 12px;
+}

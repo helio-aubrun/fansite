@@ -1,0 +1,27 @@
+html {
+    font-family: 'Raleway', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 17px;
+    background-image: url("https://i.ibb.co/9stXpCR/test.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+nav {
+    display: flex;
+    justify-content: space-evenly;
+}
+header {
+    height: 90px;
+    margin: 0;
+    font-size: 30px;
+}
+#logo {
+    float: left;
+}
+#foot {
+    display: flex;
+    justify-content: space-evenly;
+    color: black;
+    text-decoration: none;
+}

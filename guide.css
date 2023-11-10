@@ -1,0 +1,47 @@
+#home1 {color:black;
+    text-decoration: none;
+}
+#home2 {color:red;
+    text-decoration: none;
+}
+#home3 {color: black;
+    text-decoration: none;
+}
+#home4 {color: black;
+    text-decoration: none;
+}
+#home5 {color: black;
+    text-decoration: none;
+}
+#yugimuto {
+    float: right;
+}
+#desc {
+    font-size: 35px;
+}
+div.scroll {
+    background-color: #333;
+    overflow: auto;
+    white-space: nowrap;
+}
+  
+div.scroll a {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px;
+    text-decoration: none;
+}
+#video img{
+    width: 480px;
+    height: 260px;
+    transition: transform .1s;
+}
+#video img:hover{
+    -ms-transform: scale(1.2);
+    -webkit-transform: scale(1.2);
+    transform: scale(1.2);
+}
+.titre {
+    font-size: 30px;
+}

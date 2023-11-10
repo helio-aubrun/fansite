@@ -1,0 +1,29 @@
+#home1 {color:black;
+    text-decoration: none;
+}
+#home2 {color: black;
+    text-decoration: none;
+}
+#home3 {color: black;
+    text-decoration: none;
+}
+#home4 {color:red;
+    text-decoration: none;
+}
+#home5 {color: black;
+    text-decoration: none;
+}
+#yusei {
+    float: right;
+}
+#events img{
+    transition: transform .1s;
+}
+#events img:hover{
+    -ms-transform: scale(1.2);
+    -webkit-transform: scale(1.2);
+    transform: scale(1.2);
+}
+#events_passé {
+    text-align: center;
+}
